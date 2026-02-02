@@ -56,11 +56,11 @@ https://www.figma.com/proto/oHK8AJ2j8ovfZlMaUyfDXZ/SAHIGH?nodeid=01&t=s675rgiZAx
  Screenshots            
 ## Screenshots
 
-### Home & Scan Screen
-![Home Screen](screenshots/Screenshot_2026-02-02_234635.png)
+### App Home Screen
+![Home Screen](screenshots/Screenshot%202026-02-02%20234628.png)
 
 ### Eco Score Screen
-![Eco Score Screen](screenshots/Screenshot_2026-02-02_234628.png)
+![Eco Score Screen](screenshots/Screenshot%202026-02-02%20234635.png)
 
 
 
